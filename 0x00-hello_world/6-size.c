@@ -1,9 +1,10 @@
 #include <stdio.h>
 
-
 /**
- * main - Prints the size 
+ * main - The entry point 
+ * No arguement
  *
+ * Description: Prints the bytes for various data types to stdo
  * Return:0
  */
 int main(void)
