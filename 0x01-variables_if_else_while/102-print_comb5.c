@@ -10,7 +10,7 @@ int main(void)
 {
 	int i, p;
 
-	for (i = 0 ; i < 96 ; j++)
+	for (i = 0 ; i < 96 ; i++)
 	{
 		for (p = 0 ; p < 96 ; j++)
 		{
