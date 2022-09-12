@@ -12,7 +12,7 @@ int main(void)
 
 	for (i = 0 ; i < 96 ; i++)
 	{
-		for (p = 0 ; p < 96 ; j++)
+		for (p = 0 ; p < 96 ; i++)
 		{
 			if (p > i)
 			{
