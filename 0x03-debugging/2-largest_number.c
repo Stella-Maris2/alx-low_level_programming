@@ -16,19 +16,18 @@ int largest_number(int a, int b, int c)
 {
 int largest;
 
-if (a > b && b > c)
-
-printf("largest = a ");
-
-else if (b > a && a > c)
-
+if (a >= b && b >= c)
+{
+largest = a;
+}
+else if (b >= a && a >= c)
+{
 largest = b;
-printf("largest = b")
-
+}
 else
-
+{
 largest = c;
-printf("larget = c")
+}
 
-return 0;
+return (largest);
 }
