@@ -28,10 +28,10 @@ else if (b > a && a > c)
 largest = b;
 }
 
-else (c > b && b > a)
+else ()
 {
 
-largest = c;
+largest = c
 }
 
 
