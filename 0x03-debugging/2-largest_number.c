@@ -23,12 +23,12 @@ printf("largest = a ");
 else if (b > a && a > c)
 
 largest = b;
-
+printf("largest = b")
 
 else
 
 largest = c;
+printf("larget = c")
 
-
-return (largest);
+return 0;
 }
