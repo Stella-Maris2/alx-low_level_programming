@@ -24,5 +24,5 @@ _putchar(str[half]);
 half++;
 }
 
-_putchar (10);
+_putchar('\n');
 }
