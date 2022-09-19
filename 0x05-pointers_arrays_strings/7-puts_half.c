@@ -20,9 +20,9 @@ half++;
 
 while (half < index)
 {
-putchar(str[half]);
+_putchar(str[half]);
 half++;
 }
 
-putchar (10);
+_putchar (10);
 }
