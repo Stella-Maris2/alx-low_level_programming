@@ -20,7 +20,7 @@ void puts_half(char *str)
 
 	while (half < index)
 	{
-		putchar (str[half]);
+		putchar(str[half]);
 		half++;
 	}
 
