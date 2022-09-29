@@ -6,7 +6,7 @@
  *
  * Return: the factorial of the number
  */
-int factorial(inr n)
+int factorial(int n)
 {
 	int next_factorial;
 
