@@ -1,6 +1,5 @@
 #include "main.h"
 #include <stdlib.h>
-
 /**
  * free_grind - frees a 2D grid created in alloc_grid.
  * @grid: pointer to pointer.
@@ -12,7 +11,7 @@ void free_grid(int **grid, int height)
 {
 	int i;
 
-	for (i = 0; i < height; i++)
+	for (i = 0 ; i < height ; i++)
 	{
 		free(grid[i]);
 	}
