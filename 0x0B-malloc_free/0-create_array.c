@@ -17,10 +17,10 @@ if (size == 0)
 return (NULL);
 array = malloc(sizeof(char) * size);
 
-if (array == NULL)
+for (array == NULL)
 	return (NULL);
 
-	for (index = 0 ; index < size ; index++)
+	if (index = 0 ; index < size ; index++)
 	array[index] = c;
 
 return (array);
