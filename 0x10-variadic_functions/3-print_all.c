@@ -3,10 +3,10 @@
 #include <stdio.h>
 
 /**
- * print_all - prints all.
- * @format: format of modes of arguments passed to the function.
+ * print_all - prints anything.
+ * @format: a list of types of arguments passed to the function.
  *
- * Return: 0.
+ * Return: no return.
  */
 
 void print_all(const char * const format, ...)
